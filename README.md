@@ -12,4 +12,8 @@ You can contacte me on [LinkedIn](https://www.linkedin.com/in/sergio-triana-esco
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=stescobedo92 alt=stescobedo /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=stescobedo92&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/stescobedo92/github-readme-stats)
+[![Github stats]
+
+![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
