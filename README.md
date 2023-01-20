@@ -8,10 +8,3 @@ Software Engineer mainly working in .NET.
 ## Contact ⚡
 
 You can contacte me on [LinkedIn](https://www.linkedin.com/in/sergio-triana-escobedo-81a452b9)
-
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=stescobedo92 alt=stescobedo /> </p>
-
-![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/0-profile-details.svg)
-![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/stescobedo92/profile_summary_cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
