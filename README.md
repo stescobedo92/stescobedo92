@@ -8,3 +8,8 @@ Software Engineer mainly working in .NET.
 ## Contact ⚡
 
 You can contacte me on [LinkedIn](https://www.linkedin.com/in/sergio-triana-escobedo-81a452b9)
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=stescobedo92 alt=stescobedo /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=stescobedo92&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/stescobedo92/github-readme-stats)
