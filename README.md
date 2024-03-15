@@ -1,6 +1,6 @@
 ### Hey 👋, I am Sergio Triana Escobedo
 
-Software Engineer mainly working in .NET, C++, Java and Go.
+Software Engineer mainly working in .NET, C++, Rust, Java, and Go.
 
 [![](https://img.shields.io/badge/-@stescobedo92-%23181717?style=flat-square&logo=github)](https://github.com/stescobedo92)
 [![](https://img.shields.io/badge/-Sergio%20Triana%20Escobedo-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sergio-triana-escobedo-81a452b9)
@@ -19,7 +19,6 @@ You can contacte me on [LinkedIn](https://www.linkedin.com/in/sergio-triana-esco
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
 
-## Useless stats:
-
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=stescobedo92&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/stescobedo92)
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stescobedo92&theme=dark&hide_border=true&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=9)](https://github.com/stescobedo92)
+| GitHub Stats  | GitHub Streak           | GitHub Top Languages  |
+| ------- | ---------------- | ---------------------------------- |
+| ![Sergio Triana Escobedo](https://github-stats-profile.vercel.app/api?username=stescobedo92&show_icons=true&locale=en&theme=dark&hide_border=true&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=9)    | ![Sergio Triana Escobedo](https://github-readme-streak-stats.herokuapp.com/?user=stescobedo92&theme=dark&hide_border=true&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=9) | [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stescobedo92&theme=dark&hide_border=true&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=9)](https://github.com/stescobedo92) |
