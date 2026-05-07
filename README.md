@@ -28,7 +28,7 @@ No activity tracked
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img width="65%" src="https://raw.githubusercontent.com/stescobedo92/stescobedo92/main/github-metrics.svg" alt="Sergio's GitHub metrics" />
+  <a href="https://github.com/stescobedo92"><img align="center" width="100%" loading="lazy" src="https://raw.githubusercontent.com/stescobedo92/stescobedo92/main/github-metrics.svg" alt="Sergio's GitHub metrics" /></a>
 </p>
 
 ## 🏆 GitHub Trophies:
