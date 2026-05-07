@@ -1,6 +1,6 @@
 ### Hey 👋, I am Sergio Triana Escobedo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=Software+Engineer+%7C+.NET+%7C+C%2B%2B+%7C+Rust;Java+%7C+Go+%7C+Always+learning+something+new.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=Software+Engineer+%7C.NET+%7C+C%2B%2B+%7C+Rust;Java%7C+Go+%7C+Always+learning+something+new.)](https://git.io/typing-svg)
 
 Software Engineer mainly working in .NET, C++, Rust, Java, and Go. Passionate about software design principles, design patterns, object-oriented programming, functional programming, domain-driven design, and microservices. I am always eager to learn and ready to take on any challenge.
 
