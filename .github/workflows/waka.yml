@@ -1,0 +1,26 @@
+name: Update WakaTime stats
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README WakaTime block
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: "True"
+          SHOW_TOTAL: "True"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "False"
+          BLOCKS: "░▒▓█"
