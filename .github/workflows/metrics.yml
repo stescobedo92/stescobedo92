@@ -24,10 +24,16 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Mexico_City
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, vim script
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 30
+          plugin_languages_indepth: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
