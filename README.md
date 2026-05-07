@@ -10,8 +10,13 @@ Software Engineer mainly working in .NET, C++, Rust, Java, and Go. Passionate ab
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-<!-- This block will be auto-populated by the `athul/waka-readme` GitHub Action once you set the WAKATIME_API_KEY secret. -->
-![Sergio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stescobedo92&theme=vue-dark&layout=compact&hide_border=true)
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
